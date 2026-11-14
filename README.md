@@ -97,8 +97,10 @@ A DOS-style "micro operating system" simulation I built **as a kid**: a BIOS-lik
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KronixStorm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronixStorm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/KronixStorm?style=for-the-badge&logo=github&color=00ff9c&labelColor=111927" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/KronixStorm/MOSIF-Micro-Operating-System-Integration-Framework-DOS?style=for-the-badge&logo=github&color=00ff9c&labelColor=111927&label=MOSIF%20stars" alt="MOSIF stars"/>
+<img src="https://img.shields.io/github/last-commit/KronixStorm/MOSIF-Micro-Operating-System-Integration-Framework-DOS?style=for-the-badge&logo=git&color=00ff9c&labelColor=111927" alt="Last commit"/>
+<img src="https://img.shields.io/github/languages/top/KronixStorm/MOSIF-Micro-Operating-System-Integration-Framework-DOS?style=for-the-badge&color=00ff9c&labelColor=111927" alt="Top language"/>
 
 </div>
 
